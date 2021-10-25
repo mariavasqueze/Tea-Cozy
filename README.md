@@ -1,4 +1,5 @@
-This is a project from the codeacademy front-end development path.
+# Basic HTML reponsive website 
+This is a project from the **codeacademy front-end development path.**
 The goals was to make a website based just on the specs given on the exercise. 
 It should take into account all flex elements so the contents accomodate depending on the screen type. 
 
